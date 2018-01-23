@@ -1,4 +1,4 @@
-// A Divide and Conquer Program to find maximum rectangular area in a histogram
+// A Divide and Conquer Program to find maximum rectangular area in a histogram. Great
 #include <math.h>
 #include <limits.h>
 #include <iostream>
